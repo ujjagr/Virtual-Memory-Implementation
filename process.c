@@ -1,11 +1,3 @@
-/*
-Name: Sanskar Mittal and Karthik Reddy
-Roll Number: 21CS10057 and 21CS30058
-Semester: 6
-Lab Assignment: 8 : Simulating Virtual Memory through (Pure) Demand Paging
-File: process.c
-*/
-
 #include <signal.h>
 #include <stdio.h>
 #include <stdlib.h>
